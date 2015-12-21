@@ -1,5 +1,7 @@
 # BitRobot
-Arduino &amp; Bitcoin for the masses
+This makes your arduino do stuff when a bitcoin transaction happens. It is useful for building bitcoin accepting vending machines, doors or any robot that wants to earn a living.
+
+![alt tag](https://raw.githubusercontent.com/fluentart/BitRobot/master/photo.jpg)
 
 # Howto
 
