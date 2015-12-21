@@ -10,7 +10,7 @@ Upload _firmware/arduinoFirmware/bitcoinMachine_ to the arduino, see the pins I 
 
 Next you'll need node.js and some modules:
 
-'''
+```
 //install modules using npm
 cd server
 npm install ws
@@ -20,12 +20,12 @@ npm install moment
 
 //run the server that listens to the blockchain and tells the arduino what to do
 node BitRobot.js 
-'''
+```
 
 # Bitcoin donation
 
-If you like it, this encourages me to build and share more. I'm also open to collaboration, so you can email me on rouan@8bo.org
+If you like it, this encourages me to build and share more. I'm also open to collaboration, so you can email me on [rouan@8bo.org](mailto:rouan@8bo.org)
 
-<img src="https://blockchain.info/qr?data=1EZ6S8YqfxzfMKCCtpzKeEJW1qMthQnCuD&size=200"><br>
+![alt tag](https://blockchain.info/qr?data=1EZ6S8YqfxzfMKCCtpzKeEJW1qMthQnCuD&size=200)
 <h3>1EZ6S8YqfxzfMKCCtpzKeEJW1qMthQnCuD</h3>
 
