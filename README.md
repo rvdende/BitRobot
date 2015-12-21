@@ -28,6 +28,6 @@ node BitRobot.js
 
 If you like it please consider sending me some bitcoin this encourages me to build and share more. I'm also open to collaboration, so you can email me on [rouan@8bo.org](mailto:rouan@8bo.org)
 
-![alt tag](https://raw.githubusercontent.com/fluentart/BitRobot/master/bitcoinDonation.png)
+![alt tag](https://raw.githubusercontent.com/fluentart/BitRobot/master/bitcoinDonation.png)<br>
 <strong>1EZ6S8YqfxzfMKCCtpzKeEJW1qMthQnCuD</strong>
 
